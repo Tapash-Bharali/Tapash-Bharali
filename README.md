@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Tapash-Bharali/Tapash-Bharali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Tapash 👋
 
 🎓 MCA Student
@@ -18,6 +13,11 @@
 - HTML
 - CSS
 
-📫 Reach me
-- LinkedIn
-- Email
+## 📫 Connect with me
+
+- LinkedIn:https://www.linkedin.com/in/tapash-bharali-054679378/
+- Email:tapashbharali123@gmail.com
+
+
+
+
