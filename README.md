@@ -7,7 +7,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tapash-Bharali&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tapash-Bharali&layout=compact&theme=github_dark)
 
 💻 Currently Learning
 - Python
