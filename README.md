@@ -9,7 +9,7 @@
 
 
 💻 Currently Learning
-- Python
+- Web Development
 - Data Structures & Algorithms
 - Cloud Computing
 - Machine Learning
