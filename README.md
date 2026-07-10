@@ -12,6 +12,9 @@
 </p>
 
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tapash-Bharali&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 
 
 💻 Currently Learning
