@@ -1,7 +1,6 @@
 # Hi, I'm Tapash 👋
 
 🎓 MCA Student
-## 📊 GitHub Stats
 
 
 
