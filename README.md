@@ -2,6 +2,9 @@
 
 🎓 MCA Student
 
+
+> "Code. Learn. Build. Repeat."
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tapash-Bharali&theme=tokyonight)](https://git.io/streak-stats)
 
 
