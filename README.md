@@ -2,7 +2,7 @@
 
 🎓 MCA Student
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tapash-Bharali&theme=tokyonight)](https://git.io/streak-stats)
 
 💻 Currently Learning
 - Web Development
