@@ -5,6 +5,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tapash-Bharali&theme=tokyonight)](https://git.io/streak-stats)
 
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+
 
 
 💻 Currently Learning
