@@ -30,6 +30,7 @@
 - Python
 - HTML
 - CSS
+- JavaScript
 
 ## 📫 Connect with me
 
