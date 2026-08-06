@@ -31,11 +31,13 @@
 - CSS
 - JavaScript
 
-## 📫 Connect with me
+## 🌐 Connect with Me
 
-- LinkedIn:https://www.linkedin.com/in/tapash-bharali-054679378/
-- Email:tapashbharali123@gmail.com
-
-
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/tapash-bharali-054679378/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tapashbharali123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+  </a>
+</p>
