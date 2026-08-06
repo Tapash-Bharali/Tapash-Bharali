@@ -1,122 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Tapash%20Bharali&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Tapash%20Bharali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=MCA+Student;Aspiring+Software+Developer;C%2B%2B+%7C+Python+%7C+Django;Learning+DSA+Every+Day;Computer+Vision+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Tapash+Bharali;💻+Aspiring+Software+Developer;🚀+Learning+Data+Structures+%26+Algorithms;🌱+Backend+Developer+with+Django;🤖+Computer+Vision+Enthusiast;☁️+Exploring+Cloud+Computing" />
 
-<img src="https://komarev.com/ghpvc/?username=Tapash-Bharali&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Tapash-Bharali&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-```cpp
-class TapashBharali {
-public:
-    string education = "Master of Computer Applications (MCA)";
-    vector<string> languages = {"C++", "Python", "HTML", "CSS"};
-    vector<string> technologies = {"Django", "Git", "GitHub", "AWS"};
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Backend Development",
-        "Computer Vision",
-        "Cloud Computing"
-    };
+🎓 MCA Student passionate about software development and continuous learning.
 
-    string currentFocus = "Building skills through consistent practice.";
-};
-```
+💻 Currently mastering **Data Structures & Algorithms** using **C++**.
+
+🌱 Learning **Backend Development** with **Django**.
+
+🤖 Building AI-powered projects using **Computer Vision**.
+
+☁️ Exploring **Cloud Computing** and modern software technologies.
+
+🚀 Always striving to write better code, solve challenging problems, and build impactful projects.
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
-* 🌱 Solving the **Striver A2Z DSA Sheet**
-* 💻 Learning **Backend Development with Django**
-* 🍃 Developing **Tea Plant Disease Detection using Computer Vision**
-* ☁️ Exploring **Cloud Computing**
-* 📚 Continuously improving problem-solving skills
+* 📚 Striver A2Z DSA Sheet
+* 💻 Backend Development with Django
+* 🤖 Computer Vision Projects
+* ☁️ Cloud Computing
+* 📖 Learning Every Day
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,django,html,css,git,github,vscode,aws"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,html,css,git,github,vscode,aws" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tapash-Bharali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tapash-Bharali&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapash-Bharali&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tapash-Bharali&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tapash-Bharali&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tapash-Bharali&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tapash-Bharali&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
+</div>
 
 ---
 
-# 🎯 2026 Goals
+# 📌 Featured Projects
+
+### 🚀 Striver A2Z DSA
+
+> Solving the complete Striver A2Z DSA Sheet using C++.
+
+### 🍃 Tea Plant Disease Detection
+
+> AI-powered tea leaf disease detection using Computer Vision.
+
+### 🌐 Django Projects
+
+> Backend applications and REST APIs built with Django.
+
+---
+
+# 🎯 Goals
 
 * ✅ Complete Striver A2Z DSA Sheet
-* 🚀 Build multiple Django projects
+* 🚀 Build real-world Django projects
+* 🤖 Complete my MCA Major Project
 * ☁️ Strengthen Cloud Computing skills
-* 🍃 Complete the MCA major project
-* 💼 Prepare for software developer placements
-* 📖 Contribute to open source
+* 💼 Secure a Software Developer role
+* 🌟 Contribute to Open Source
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/tapash-bharali-054679378/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
+   
 
 <a href="mailto:tapashbharali123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -124,7 +125,7 @@ public:
 
 <div align="center">
 
-### *"Consistency compounds. Every line of code brings you one step closer to mastery."*
+### *"Success isn't built in a day. It's built one commit at a time."*
 
 </div>
 
@@ -134,8 +135,8 @@ public:
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Keep learning. Keep building. Keep improving."*
+**If you like my work, consider giving a ⭐ to my repositories.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
