@@ -27,7 +27,6 @@
 - Machine Learning
 
 🚀 Projects
-- Python
 - HTML
 - CSS
 - JavaScript
